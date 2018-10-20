@@ -1,4 +1,4 @@
-### Todo-list-react
+### Completed Todo-list using React
 
 ![1](https://user-images.githubusercontent.com/26092150/47142202-6798f080-d290-11e8-9715-415736a916df.JPG)
 #### Click Insert
