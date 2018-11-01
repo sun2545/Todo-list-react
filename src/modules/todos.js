@@ -15,7 +15,7 @@ const initialState =List([
         text:'study react',
         done:true
     }),
-    map({
+    Map({
         id:1,
         text:'styling component',
         done:false
