@@ -1,5 +1,5 @@
 import {Map,List} from 'immutable';
-import {handleActions, createAction, handleAction} from 'redux-actions';
+import {handleActions, createAction} from 'redux-actions';
 
 const INSERT = 'todos/INSERT';
 const TOGGLE = 'todos/TOGGLE';
